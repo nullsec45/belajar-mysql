@@ -1,1 +1,2 @@
 CREATE DATABASE belajar_mysql;
+SHOW DATABASES;
